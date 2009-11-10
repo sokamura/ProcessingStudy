@@ -1,5 +1,7 @@
 float VoiceMoveDelay = 1.0/10;
-
+/*
+Hello, World
+*/
 
 public class Voice{
     private int x, y;
